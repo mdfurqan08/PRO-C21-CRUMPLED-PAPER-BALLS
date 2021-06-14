@@ -11,7 +11,7 @@ var groundObject,leftSide,rightSide,ball;
 var world;
 
 function setup() {
-	createCanvas(1700, 700);
+	createCanvas(1600, 700);
 	rectMode(CENTER);
 
     engine = Engine.create();
